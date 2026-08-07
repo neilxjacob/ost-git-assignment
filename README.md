@@ -1,2 +1,2 @@
-# ost-git-assignment
+# OST Git assignment
 
